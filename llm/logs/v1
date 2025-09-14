@@ -1,0 +1,36 @@
+
+# Prompt
+
+Parse through the job link that is given. Generate a cold email in about 50-125 words, and 3 paragraphs. The email should be professional, concise, and highly targeted.Refer appropriate fields like skills / experiences / projects / certifications / publications / awards from resumes json that to cover most of requirements of the job role and aligned with job role.  
+
+Paragraph 1: State the purpose of the email: to apply for a specific job role. Express genuine interest in the company and the specific role.
+
+Paragraph 2: Focus on the most relevant professional experience (e.g., internships, previous jobs). Highlight key achievements using quantifiable metrics . Mention specific technologies or projects that directly align with the job requirements.
+
+Paragraph 3: Discuss additional skills or experiences. This can include academic coursework, personal projects, or publications that demonstrate a deeper expertise and passion for the field. For example, if the job requires AI/ML experience, this is where you'd mention relevant research papers or side projects.
+
+Signature:
+Sign off with a professional closing (e.g., "Sincerely"). Provide the applicant's full name and key contact information (phone number, email, LinkedIn, and GitHub).
+
+
+
+# Response
+
+Subject: Python Developer Application - [Your Name]
+
+Dear Apple Hiring Team,
+
+My name is Rudraksh Naik, and I am writing to express my strong interest in the Python Developer position at Apple, which I discovered on your careers page. My background in developing scalable, cloud-native applications and my passion for leveraging AI/ML technologies align perfectly with the requirements of this role. I am particularly drawn to Apple's commitment to innovation and excellence, and I am confident that my skills and experience would be a valuable asset to your team.
+
+During my Software Development Engineer internship at Amazon, I engineered a PLC software component for Orkes Conductor Engine and built an automated CDK pipeline using AWS CloudFormation libraries. Furthermore, as a Backend Developer Intern and AI Researcher at Skilljourney, I integrated OpenAI LLM models into backend applications using Azure Functions. I also tuned LLM parameters, which improved response generation by 10%, and researched models like GPT-4 and Gemini, improving accuracy by 30%. These experiences have provided me with a solid foundation in both backend development and advanced AI/ML applications, directly matching the skills outlined in your job description.
+
+In addition to my professional experience, my academic and personal projects demonstrate a deep expertise in this field. My project on "Robust Human Target Detection and Acquisition," which utilized Python and Django for a real-time threat detection web application, showcases my ability to build and deploy full-stack solutions. Furthermore, I have authored two peer-reviewed research papers in the fields of deep learning and computer vision, highlighting my passion for continuous learning and my dedication to the field of computer science.
+
+Thank you for your time and consideration. I have attached my resume for your review and look forward to the possibility of discussing this opportunity further.
+
+Sincerely,
+
+Rudraksh Naik
++1 (408) 549-6105
+rudrakshnaik@gmail.com
+[LinkedIn](https://linkedin.com/in/rudrax)

@@ -1,0 +1,13 @@
+
+Parse through the job link = "<job link>" . Generate a cold email in about 50-125 words, and 3 paragraphs. The email should be professional, concise, and highly targeted.Refer appropriate fields like skills / experiences / projects / certifications / publications / awards from resumes json that to cover most of requirements of the job role and aligned with job role.  
+
+Paragraph 1: State the purpose of the email: to apply for a specific job role. Express genuine interest in the company and the specific role.
+
+Paragraph 2: Focus on the most relevant professional experience (e.g., internships, previous jobs). Highlight key achievements using quantifiable metrics . Mention specific technologies or projects that directly align with the job requirements.
+
+Paragraph 3: Discuss additional skills or experiences. This can include academic coursework, personal projects, or publications that demonstrate a deeper expertise and passion for the field. For example, if the job requires AI/ML experience, this is where you'd mention relevant research papers or side projects.
+
+Signature:
+Sign off with a professional closing (e.g., "Sincerely"). Provide the applicant's full name and key contact information (phone number, email, LinkedIn, and GitHub).
+
+

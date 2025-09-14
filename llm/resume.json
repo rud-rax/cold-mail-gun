@@ -1,0 +1,105 @@
+{
+  "Name": "Rudraksh Naik",
+  "Contact": {
+    "Phone": "+1 (408)549-6105",
+    "Email": "rudrakshnaik@gmail.com",
+    "LinkedIn": "https://linkedin.com/in/rudrax",
+    "GitHub": "https://github.com/rud-rax"
+  },
+  "Education": [
+    {
+      "Institution": "San Jose State University",
+      "Location": "San Jose, CA",
+      "Degree": "Masters in Computer Science",
+      "Duration": "Aug 2024 - May 2026",
+      "Relevant Coursework": [
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science",
+        "Natural Language Processing",
+        "Mathematics",
+        "DBMS",
+        "Algorithms",
+        "Data Structures",
+        "Statistics",
+        "Object Oriented Programming"
+      ]
+    }
+  ],
+  "Technical Skills": {
+    "Languages": ["Python", "Java", "TypeScript", "SQL", "HTML/CSS"],
+    "Frameworks": ["AWS", "Orkes Conductor", "Reactivex", "Django", "FastAPI", "Azure Functions"],
+    "Developer Tools": ["Git", "Azure DevOps", "Postman", "RabbitMQ", "Docker", "VirtualBox", "Excel", "PowerBI"],
+    "Libraries": [
+      "Pytorch",
+      "scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "OpenCV",
+      "Tensorflow",
+      "Keras",
+      "Mediapipe",
+      "OpenAI API",
+      "Langchain",
+      "Pillow"
+    ],
+    "Databases": ["MySQL", "MongoDB", "CosmosDB", "Azure Blob Storage"]
+  },
+  "Experience": [
+    {
+      "Company": "Amazon",
+      "Role": "Software Development Engineer Intern",
+      "Location": "San Diego, California",
+      "Duration": "June 2025 – Aug 2025",
+      "Responsibilities": [
+        "Engineered a PLC software component for Orkes Conductor Engine achieving a 90% reduction in workflow errors.",
+        "Integrated PLC into Workflow Engine using Java Bean Manipulation, Observer pattern, and reactive programming.",
+        "Collaborated on design documents outlining four architectural alternatives and recommended optimal solution.",
+        "Developed a CloudWatch monitoring system with Graph widgets and Alarms.",
+        "Built a CDK pipeline using AWS CloudFormation CDK libraries to automate deployment."
+      ]
+    },
+    {
+      "Company": "Skilljourney LLP",
+      "Role": "Backend Developer Intern and AI Researcher",
+      "Location": "Pune, India",
+      "Duration": "Jan 2024 – June 2024",
+      "Responsibilities": [
+        "Integrated OpenAI LLM models into backend applications with Azure Functions.",
+        "Researched GPT-4, Gemini, Claude 3 improving accuracy by 30%.",
+        "Tuned LLM parameters (Temperature, Max Tokens, etc.) to improve response generation by 10%.",
+        "Implemented design patterns (Facade, Repository, Singleton) improving scalability by 33%.",
+        "Used CosmosDB and Azure Blob Storage for efficient, low-cost data storage."
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Title": "Robust Human Target Detection and Acquisition",
+      "Technologies": ["Python", "OpenCV", "Django"],
+      "Details": [
+        "Applied image processing techniques (contrast adjustment, gamma correction, CLAHE) to improve low-light images by 77%.",
+        "Trained CNN models for object detection, human pose detection, distance and weapon detection.",
+        "Deployed web application on Django with live feed monitoring for real-time threat detection."
+      ]
+    }
+  ],
+  "Publications": [
+    {
+      "Title": "An Analytical Approach on Various Deep Learning Models for Image Classification",
+      "Journal": "IJISAE",
+      "ISSN": "2147-6799",
+      "Type": "Peer-reviewed research paper"
+    },
+    {
+      "Title": "Kinematic Pose Tracking for Workout App Using Computer Vision",
+      "Journal": "IJIMETS",
+      "ISSN": "2582-5208",
+      "Type": "Peer-reviewed research paper"
+    }
+  ],
+  "Awards": [],
+  "Certificates": []
+}
